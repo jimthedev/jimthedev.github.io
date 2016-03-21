@@ -12,6 +12,7 @@ tags:
 - Angular 2
 - Angular2
 - TypeScript
+banner: /banner/turkish-spice.jpg
 ---
 
 The following is a presentation that I gave at several conferences and it covers some of the basic concepts in Angular 2 and TypeScript. At the time of this recording Angular 2 was still in alpha so some of the code may be outdated. Nevertheless, the concepts should continue to be useful as you learn about Angular 2 or any component based framework that encourages uni directional data flow.
@@ -23,3 +24,5 @@ I've also included a [recorded version](https://www.youtube.com/watch?v=KL4Yi3Wt
 {% youtube KL4Yi3WtymA %}
 
 I hope it is helpful as you learn about Angular 2!
+
+*Banner image courtesy of Tuncay Yilmaz. Public domain.*
